@@ -1,0 +1,1 @@
+# Map for Polarkuh-Spotter Assembly of RC3
