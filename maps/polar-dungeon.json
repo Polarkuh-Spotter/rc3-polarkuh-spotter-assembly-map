@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#stairFromDungeon"
+                 "value":"..\/main.json#stairfromdungeon"
                 }],
          "type":"tilelayer",
          "visible":true,
