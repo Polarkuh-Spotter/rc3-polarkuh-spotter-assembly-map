@@ -27,12 +27,6 @@
          "id":9,
          "name":"exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"www.google.ch"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":115,
@@ -83,7 +77,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"maps\/polar-dungeon.json"
                 }],
