@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":116,
  "infinite":false,
  "layers":[
@@ -28,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"../main.json#stairFromDungeon"
+                 "value":"house.json#exitDungeon"
                 }],
          "type":"tilelayer",
          "visible":true,
