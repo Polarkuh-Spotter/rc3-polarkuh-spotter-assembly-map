@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/main.json#exitDungeon"
+                 "value":"house.json#exitDungeon"
                 }],
          "type":"tilelayer",
          "visible":true,
