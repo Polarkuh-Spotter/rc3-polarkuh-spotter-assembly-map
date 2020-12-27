@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"www.google.ch"
+                 "value":"{<lobby>\/generic-assemblies.json#start_polarkuh-spotter}"
                 }],
          "type":"tilelayer",
          "visible":true,
