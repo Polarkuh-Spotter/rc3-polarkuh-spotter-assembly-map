@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json#emergencyAssemblyPlace"
+                 "value":"..\/main.json#emergencyAssemblyPlace"
                 }],
          "type":"tilelayer",
          "visible":true,
