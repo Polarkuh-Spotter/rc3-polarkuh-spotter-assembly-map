@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/Polarkuh-Spotter\/rc3-polarkuh-spotter-assembly-map\/main\/text\/dungeon-intro.txt"
+                 "value":"https:\/\/pastebin.com\/raw\/3fkBhgs7"
                 }],
          "type":"tilelayer",
          "visible":true,
